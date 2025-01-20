@@ -24,6 +24,6 @@ print(details)
 ```
 Output:
 ```
-['Abhijeet', 18, 'FYBScIT', 9.8]
+['Musab', 18, 'FYBScIT', 9.8]
 ```
 As we can see, a single list can contain items of different data types.
