@@ -1,0 +1,36 @@
+Basic if-else
+Write a Python program to check if a given number is positive, negative, or zero.
+Write a Python program to determine whether a given year is a leap year or not.
+Write a program to check if a user-entered character is a vowel or a consonant.
+Nested if-else
+Write a Python program that accepts a grade percentage and prints "A", "B", "C", "D", or "F" based on the following criteria:
+A for 90 and above
+B for 80–89
+C for 70–79
+D for 60–69
+F for below 60
+Write a program to determine the largest among three numbers entered by the user.
+if-elif-else
+Write a Python program to calculate the electricity bill based on the following rates:
+
+For the first 100 units: $0.50 per unit
+For the next 100 units: $0.75 per unit
+Above 200 units: $1.20 per unit Calculate the total bill based on user input.
+Write a Python program to check if a given number is divisible by 3, 5, both, or neither.
+
+for Loops
+Write a Python program to print all even numbers between 1 and 50.
+Write a Python program to print the multiplication table for a number provided by the user.
+Write a program to find the factorial of a number using a for loop.
+while Loops
+Write a Python program to print numbers from 1 to 10 using a while loop.
+Write a program to repeatedly take user input until the user enters a negative number.
+Write a program to calculate the sum of digits of a given number using a while loop.
+Combining if with Loops
+Write a Python program that prints all prime numbers between 1 and 100.
+Write a Python program to print the Fibonacci series up to n terms provided by the user.
+Write a program to count the number of vowels and consonants in a given string.
+break and continue
+Write a Python program that takes multiple numbers as input until the user enters 0. If the user enters a negative number, skip it using continue.
+Write a Python program to find the first number divisible by 7 in the range of 100 to 200 using a for loop with break.
+Write a Python program to take a string input and stop processing as soon as the letter "z" is encountered using a for loop and break.
