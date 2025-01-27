@@ -1,0 +1,21 @@
+1)Write a function sum_of_multiples(n, x) that calculates the sum of all multiples of x up to n # Output: 30 (2 + 4 + 6 + 8 + 10)
+2)Write a function is_palindrome(word) that checks whether a given word is a palindrome (a word that reads the same backward as forward).
+The function should return True or False.
+is_palindrome("radar")  # Output: True
+is_palindrome("python")  # Output: False
+3)Write a function fibonacci_sequence(n) that generates the first n numbers in the Fibonacci sequence as a list.
+example:
+fibonacci_sequence(6)  # Output: [0, 1, 1, 2, 3, 5]
+4)Write a function is_prime(n) that checks if a given number n is a prime number. Return True if it is prime, otherwise False.
+example
+is_prime(7)  # Output: True
+is_prime(10)  # Output: False
+5)Write a function are_anagrams(str1, str2) that checks if two strings are anagrams (contain the same characters in a different order). 
+Return True or False.
+example:
+are_anagrams("listen", "silent")  # Output: True
+are_anagrams("hello", "world")  # Output: False
+6)Write a function char_frequency(s) that takes a string s and returns a dictionary with the frequency of each character in the string.
+example
+char_frequency("banana")  
+# Output: {'b': 1, 'a': 3, 'n': 2}
