@@ -1,0 +1,39 @@
+Problem 1: Tuple Unpacking
+Create a tuple my_tuple containing three elements: (10, 20, 30). Unpack the tuple into three variables a, b, and c. Print the values of a, b, and c.
+
+Problem 2: List Manipulation
+Create a list my_list with the following elements: [5, 10, 15, 20, 25]. Perform the following operations:
+
+Append the number 30 to the list.
+
+Remove the second element from the list.
+
+Insert the number 12 at the beginning of the list.
+
+Print the final list.
+
+Problem 3: Tuple Concatenation
+Create two tuples: tuple1 = (1, 2, 3) and tuple2 = (4, 5, 6). Concatenate the two tuples into a new tuple called combined_tuple. Print the result.
+
+Problem 4: List Slicing
+Given the list numbers = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9], use slicing to:
+
+Extract the first three elements.
+
+Extract the last four elements.
+
+Extract every second element from the list.
+
+Print the results.
+
+Problem 5: Tuple and List Conversion
+Create a tuple my_tuple = (7, 8, 9).
+
+Convert the tuple into a list called my_list.
+
+Add the number 10 to the list.
+
+Convert the list back into a tuple called new_tuple.
+
+Print the final tuple.
+
