@@ -1,0 +1,22 @@
+These problems encourage the use of various dictionary methods like `.get()`, `.pop()`, `.update()`, `.keys()`, `.values()`, and more!
+
+1. **Counting Words**: You are given a list of words. Write a function that counts the frequency of each word and stores the result in a dictionary, where the keys are words and the values are their frequencies.
+
+2. **Merge Two Dictionaries**: You have two dictionaries with common keys. Write a function to merge both dictionaries, summing the values for keys that appear in both dictionaries.
+
+3. **Nested Dictionary Access**: You have a dictionary that contains other dictionaries as values. Write a function that accesses and updates a nested dictionary's value, given the outer and inner keys.
+
+4. **Dictionary Key Check**: You are given a dictionary and a list of keys. Write a function that returns a new dictionary containing only the key-value pairs where the key exists in the list.
+
+5. **Sort Dictionary by Values**: Write a function that takes a dictionary and returns a list of keys sorted by their corresponding values in ascending order.
+
+6. **Dictionary Intersection**: Given two dictionaries, write a function to find the common keys and their corresponding values in both dictionaries.
+
+7. **Find Key with Max Value**: Write a function that takes a dictionary and returns the key that has the highest value.
+
+8. **Count Unique Values**: You are given a dictionary where values are lists. Write a function to count the number of unique elements across all lists and store the count in a new dictionary.
+
+9. **Swap Keys and Values**: Write a function that swaps the keys and values in a given dictionary, making sure that the values are unique (since dictionary keys must be unique).
+
+10. **Update Dictionary with Default Value**: You are given a dictionary and a list of keys with default values. Write a function that updates the dictionary to set the default value for any key not currently in the dictionary.
+
