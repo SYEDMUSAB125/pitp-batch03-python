@@ -1,0 +1,38 @@
+
+
+### Problem 1: **Union of Two Sets**
+Write a Python function `union_of_sets(set1, set2)` that takes
+ two sets as input and returns the union of the sets. The union of two sets is a set containing all elements from both sets.
+
+
+### Problem 2: **Intersection of Two Sets**
+Write a Python function `intersection_of_sets(set1, set2)` that takes two 
+sets as input and returns a set containing the common elements between them.
+
+
+### Problem 3: **Difference of Two Sets**
+Write a Python function `difference_of_sets(set1, set2)` that takes two sets as input and returns a set containing all the elements in `set1` that are not in `set2`.
+
+
+
+
+### Problem 4: **Symmetric Difference of Two Sets**
+Write a Python function `symmetric_difference_of_sets(set1, set2)` that takes two sets as input and returns a set containing elements that are in either `set1` or `set2`, but not in both.
+
+
+
+### Problem 5: **Subset Check**
+Write a Python function `is_subset(set1, set2)` that checks if `set1` is a subset of `set2`. Return `True` if `set1` is a subset of `set2`, and `False` otherwise.
+
+
+### Problem 6: **Disjoint Sets**
+Write a Python function `are_disjoint_sets(set1, set2)` that checks if two sets are disjoint, meaning they have no common elements. Return `True` if they are disjoint, and `False` otherwise.
+
+
+### Problem 7: **Add an Element to a Set**
+Write a Python function `add_element_to_set(set1, element)` that adds a given element to a set. If the element is already in the set, the set remains unchanged.
+
+
+### Problem 8: **Remove an Element from a Set**
+Write a Python function `remove_element_from_set(set1, element)` that removes a specified element from a set. If the element is not found, handle the `KeyError` gracefully and return a message indicating that the element was not found.
+
