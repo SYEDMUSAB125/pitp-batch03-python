@@ -1,0 +1,12 @@
+1. Create a Class with Constructor
+Create a class Book that has a constructor which initializes the title and author of the book. Then, create an instance of the Book class and print the title and author.
+2. Using Getters and Setters
+Create a class Rectangle that has private attributes length and width. Add getter and setter methods to access and modify these attributes.
+3. Class with Decorators for Getter/Setter
+Create a class Person that has a private attribute age. Use decorators to implement getter and setter methods for age. The setter should ensure that the age is a positive integer.
+4. Class with an Increment Method
+Create a class Counter that keeps track of a counter. Add an increment method to increase the counter by 1 each time it's called. Use a getter to retrieve the current counter value.
+5. Class for Bank Account
+Create a class BankAccount that has a private attribute balance. Write getter and setter methods for the balance. Ensure the setter doesn’t allow setting a negative balance.
+6. Class for Celsius and Fahrenheit Conversion
+Create a class Temperature that has a private attribute celsius. Implement a getter and setter for Celsius, and add a property method to convert the temperature to Fahrenheit when requested.
