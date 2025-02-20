@@ -1,0 +1,33 @@
+1)Create a class Person with the following private instance variables:
+
+String name
+int age
+Write a getter and setter method for each variable (name and age).
+
+2)Create a class BankAccount with a private instance variable:
+
+double balance
+Write a getter for the balance and a setter that ensures the balance cannot be set to a negative value. If a negative value is passed, the setter should print "Invalid amount" and set the balance to 0 instead.
+
+3)Private Setter
+Create a class Book with the following private instance variables:
+
+String title
+String author
+Write a getter for both variables and a setter for the title variable. The setter for author should be private. Answer the following:
+
+How can you modify the author of a Book instance directly from outside the class? Will the setter for author be accessible from other classes?
+
+4)Create a class Rectangle with the following private instance variables:
+
+double length
+double width
+The class should have a constructor to initialize both variables. Add getter methods for both length and width, and a setter for length. However, do not provide a setter for width
+
+
+5)Create a class Employee with the following private instance variables:
+
+String name
+int employeeID
+double salary
+Make the employeeID read-only, meaning there is no setter for it. Provide getters for all variables, but allow the salary to be modified via a setter that ensures it can't be set to a value lower than the current salary.
