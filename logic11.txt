@@ -1,0 +1,31 @@
+
+ 1. **Inheritance Problem**
+   - Create a class `Animal` with a method `makeSound()`. Then, create a subclass `Dog` that overrides the `makeSound()` method to return "Bark". Create an instance of `Dog` and call `makeSound()` to see the overridden method in action.
+
+ 2. **Operator Overloading Problem**
+   - Create a `Complex` class with real and imaginary parts. Overload the `+` operator to add two complex numbers. Demonstrate this by creating two `Complex` objects, adding them together, and printing the result.
+
+ 3. **Method Overloading Problem**
+   - Create a class `Calculator` with a method `add()` that can handle both integer and double inputs (overloading). Write at least two versions of the `add()` method: one for integers and one for doubles. Test the overloaded methods by calling them with different data types.
+
+4. **Access Modifier Problem**
+   - Define a class `Student` with private fields `name`, `age`, and `grade`. Create public getter and setter methods to access and modify these fields. Demonstrate how to use these getters and setters to get and set values for these fields.
+
+ 5. **Getter and Setter Problem**
+   - Create a class `Rectangle` with private fields `length` and `width`. Implement getter and setter methods for both fields. Write a method `calculateArea()` to calculate the area of the rectangle. Test the class by creating an instance, setting values, and calling the area method.
+
+ 6. **Inheritance and Method Overriding**
+   - Create a base class `Vehicle` with a method `startEngine()`. Then, create a subclass `Car` that overrides the `startEngine()` method to return a message "Car engine started". Instantiate both `Vehicle` and `Car` classes and call `startEngine()` on both objects.
+
+ 7. **Operator Overloading for Equality Check**
+   - Create a class `Point` with `x` and `y` coordinates. Overload the `==` operator to compare two `Point` objects and return `true` if they have the same coordinates, and `false` otherwise. Test the overloaded operator with two `Point` objects.
+
+8. **Method Overloading with Multiple Parameters**
+   - Create a class `Printer` with an overloaded `print()` method that can accept a string, an integer, and a double. Write three overloaded methods: one for a string, one for an integer, and one for a double. Print a message for each of the overloaded methods.
+
+ 9. **Access Modifier for Encapsulation**
+   - Create a class `BankAccount` with private fields `accountNumber`, `balance`, and `ownerName`. Write public getter and setter methods for all fields and ensure that the balance cannot be set directly to a negative number. Demonstrate the use of the getter and setter for accessing these fields.
+
+10. **Inheritance and Constructor**
+   - Create a class `Person` with a constructor that accepts the name and age as parameters. Then, create a subclass `Employee` that adds a `salary` field and initializes it via a constructor. Create an instance of `Employee` and demonstrate calling both the parent constructor and the child constructor.
+
