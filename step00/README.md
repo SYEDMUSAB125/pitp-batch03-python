@@ -6,7 +6,7 @@ Programming is a way for us to tell computers what to do. Computers are very bas
 
 For example, if I ask you to calculate 5 + 6, you would immediately say 11. But if I asked you to calculate 23,453,453 * 56,456, you would likely have to search for a calculator or open a new tab to find the answer. This is where programming comes in—allowing us to automate and quickly perform calculations and many other tasks.
 
-This "100 days of code" series will guide you step-by-step through learning Python from scratch. By the end of this series, you will be a job-ready Python developer!
+
 
 ## What is Python?
 
